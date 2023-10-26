@@ -29,7 +29,8 @@ Contact Us:
 Have questions or need assistance? We're here to help!
 
 # Getting Started
-To view the Desserts Delight webpage, simply click on the Live Link and explore its features. You can also access the source code on GitHub.
+To view the Desserts Delight webpage, simply click on the [Live Link](https://anoosh1234.github.io/dessertsFood/)
+ and explore its features. You can also access the source code on [GitHub](https://github.com/Anoosh1234/dessertsFood).
 
 # Usage
 This webpage is designed for desktop use and is not responsive. It's best viewed on larger screens.
