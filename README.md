@@ -15,12 +15,16 @@ This project is a part of a 25-day challenge to create daily webpages. Day 01 fo
 
 Home:
 A sweet introduction to our dessert world.
+
 Our Story: 
 Dive into our dessert journey, a tale of passion and creativity.
+
 Dining Choices:
 Explore a delightful menu of cakes, pies, ice cream, specialty desserts, beverages, and seasonal specials.
+
 Our Offerings:
 Learn how you can order, get your desserts shipped, and enjoy them at your doorstep.
+
 Contact Us: 
 Have questions or need assistance? We're here to help!
 
